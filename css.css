@@ -1,0 +1,75 @@
+body
+{
+
+}
+.main
+{
+height:1000px;
+width:100%;
+background:#CC0000;
+margin:00px auto;
+border:30px solid:#00FF00;
+}
+.header
+{
+height:300px;
+width:100%;
+background:#FF0000;
+}
+.menu
+{
+height:40px;
+width:100%;
+background:#FFCC00;
+}
+table
+{
+height:40px;
+width:100%
+}
+table th
+{
+ color:#FF3399;
+background:#CC0000;
+
+}
+table th a
+{
+text-decoration:none;
+}
+th:hover
+{
+color:#CC0000;
+background:#CCFF99;
+}
+.constant
+{ height:270px;
+width:100%;
+
+}
+.left
+{
+height:270px;
+width:30%;
+background:#000000;
+float:left;
+}
+.center
+{
+height:270x;
+width:40%;
+background:url(wallpaper.jpg);
+float:left;
+}
+.right
+{
+height:270px;
+width:30%;
+float:left;
+background:url(dharmshala/Dsla images/dsc03963.jpg); 
+}
+.footer
+{height:350px;
+width:100%;
+background:#CCFF33;
+}

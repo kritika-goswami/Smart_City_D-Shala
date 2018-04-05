@@ -1,0 +1,58 @@
+body
+{
+}
+.main
+{
+height:610px;
+width:100%;
+margin:00px auto;
+border:20px solid:;
+}
+.header
+{
+height:200px;
+width:100%;
+}
+.menu
+{
+height:60px;
+width:100%;
+background:#FF3333;
+}
+.constant
+{
+height:350px;
+width:100%;
+background:
+}
+.left
+{
+height:350px;
+width:20%;
+background:;
+ float:left;
+ }
+ table
+ {
+ height:100px;
+ width:100%;
+ }
+ table th
+ {color:#FFFFFF;
+ background:;
+ }
+ th:hover
+ {
+ height:50px;
+ width:20%;
+ color:#66FF33;
+ background:#FF6600;
+ }
+ .center
+ {
+ height:350px;
+ width:80%;
+ background:;
+ float:left;
+ }
+ 

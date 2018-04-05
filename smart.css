@@ -1,0 +1,65 @@
+body
+{
+background:url(file:///C|/Users/Kritika Goswami/Desktop/wallpaper.jpg);
+}
+.main
+{
+height:880px;
+width:100%;
+background:
+margin:00px auto;
+border:30px solid:#00FF00;
+}
+.header
+{
+height:300px;
+width:100%;
+background:#FF0000;
+}
+.menu
+{
+height:40px;
+width:100%;
+background:#FFCC00;
+}
+table
+{
+height:40px;
+width:100%
+}
+table th
+{
+ color:#FF3399;
+background:
+}
+table th a
+{text-decoration:none;
+}
+th:hover
+{
+color:#CC0000;
+background:#9966FF;
+}
+.constant
+{ height:600px;
+width:100%;
+
+}
+.left
+{
+height:600px;
+width:20%;
+background:#000000;
+float:left;
+}
+.center
+{
+height:600x;
+width:80%;
+float:left;
+}
+.footer
+{height:240px;
+width:100%;
+background:
+}
